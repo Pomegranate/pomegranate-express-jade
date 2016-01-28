@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-express-jade",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Provides Jade view rendering for Pomegranate-express running in the Pomegranate framework.",
   "main": "index.js",
   "scripts": {
