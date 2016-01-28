@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Pomegranate/pomegranate-express-jade/issues"
   },
-  "homepage": "https://github.com/Pomegranate/pomegranate-express-jade"
+  "homepage": "https://github.com/Pomegranate/pomegranate-express-jade",
+  "dependencies": {
+    "jade": "^1.11.0"
+  }
 }
